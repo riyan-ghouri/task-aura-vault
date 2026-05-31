@@ -4,10 +4,9 @@ export default defineConfig({
   tanstackStart: {
     server: { entry: "server" },
   },
-
-  vite: {
-    ssr: {
-      external: ["cloudflare:sockets"],
-    },
-  },
+vite: {
+  resolve: {
+    externalConditions: ["worker", "workerd"]
+  }
+}
 });
