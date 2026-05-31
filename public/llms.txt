@@ -1,0 +1,9 @@
+# Veritask
+
+> Veritask is a Web3 rewards platform where verified users earn real USDT (BEP20) by completing social media and engagement tasks. No deposits, instant on-chain payouts, bot-proof via GoodDollar face verification.
+
+## Pages
+
+- [Home](/): What Veritask is, how it works, trust signals, FAQ.
+- [Task Center](/tasks): Browse open paid tasks and submit proof to earn USDT.
+- [Sign in](/auth): Create a free account or sign in to start earning.
